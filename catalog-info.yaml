@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "first-template-app"
+  description: "Example of template"
+  annotations:
+    github.com/project-slug: guigoebel/test-template-backstage
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "fretebras"
