@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: "first-template-app"
   description: "Example of template"
+  impactLevel: "low"
   annotations:
     github.com/project-slug: guigoebel/test-template-backstage
 spec:
